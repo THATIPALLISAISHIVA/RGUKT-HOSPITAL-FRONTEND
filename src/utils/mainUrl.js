@@ -1,3 +1,3 @@
-const mainUrl = "http://10.10.17.53:8000";
+const mainUrl = "https://rgukt-hospital-backend.vercel.app/";
 
 export default mainUrl;
